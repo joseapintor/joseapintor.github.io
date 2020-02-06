@@ -60,11 +60,11 @@ plugins:
 author:
   name   : "José Antonio García Pintor"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Heyo there! I'm José! But if you can't remember that you can call me Joseph, Josh, Joe, That Guy... Aah you know what I mean. I'm an eager-to-learn-more Junior Developer that loves videogames and pizza. Feel free to contact me!"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
