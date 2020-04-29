@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello! José here, I'm a junior developer that hails all the way from Spain to Austria in a search for knowledge and new challenges.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+After wrapping up my studies back in Spain and acquiring formal work experience for a year, I decided to chase something bigger so I decided to grab my suitcases set sail to Austria.
+
+As of right now I'm trying my best to coming to terms with German, and sharing a roof with three woofs.
+
+Currently I'm working on two passion projects: one using Unity and the other using Renpy, to get better at those prospective technologies and to share some fun with the world.
