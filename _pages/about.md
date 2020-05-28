@@ -1,6 +1,8 @@
 ---
-permalink: /about/
 title: "About"
+layout: about
+permalink: /about/
+author_profile: true
 ---
 
 Hello! José here, I'm a junior developer that hails all the way from Spain to Austria in a search for knowledge and new challenges.

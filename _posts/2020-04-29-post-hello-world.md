@@ -1,4 +1,5 @@
 ---
+layout: posts
 title: "Hello World"
 categories:
   - Blog Post

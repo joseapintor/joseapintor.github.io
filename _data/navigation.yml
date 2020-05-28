@@ -1,9 +1,10 @@
+# main links
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+
+  - title: "Posts"
+    url: /posts/
+
+  - title: "Let's work together!"
+    url: /_pages/CV.html#_blank
