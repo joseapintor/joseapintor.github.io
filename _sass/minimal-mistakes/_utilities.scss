@@ -360,6 +360,16 @@ body:hover .visually-hidden button {
   }
 }
 
+@media (max-width: 600px) {
+    .navicon {
+      background: white;
+      &:before,
+      &:after {
+        background: white;
+      }
+    }
+  }
+
 .close .navicon {
   /* hide the middle line*/
   background: transparent;
