@@ -334,7 +334,7 @@ body:hover .visually-hidden button {
   position: relative;
   width: $navicon-width;
   height: $navicon-height;
-  background: $primary-color;
+  background: white;
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -405,7 +405,7 @@ body:hover .visually-hidden button {
       width: 100%;
       height: 100%;
       opacity: 0;
-      background-color: $background-color;
+      background: white;
       -webkit-transition: $global-transition;
       transition: $global-transition;
       pointer-events: none;
@@ -418,20 +418,6 @@ body:hover .visually-hidden button {
       -webkit-transition: $global-transition;
       transition: $global-transition;
       pointer-events: auto;
-    }
-  }
-}
-
-.greedy-nav__toggle:hover {
-  .navicon,
-  .navicon:before,
-  .navicon:after {
-    background: mix(#000, $primary-color, 25%);
-  }
-
-  &.close {
-    .navicon {
-      background: transparent;
     }
   }
 }
