@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "nokogiri", "~> 1.10.pre"
+gem "nokogiri", "~> 1.13"
 gem "jekyll-include-cache"
 gem 'jekyll'
 gem 'jekyll-feed'
