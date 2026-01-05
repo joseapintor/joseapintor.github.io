@@ -1,9 +1,9 @@
 # Ruby Gem
 Gemfile.lock
 
-
 # macOS
 .DS_Store
 
 # Jekyll generated files
 _site
+.jekyll-cache
