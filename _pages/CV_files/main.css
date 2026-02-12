@@ -330,6 +330,23 @@ body {
   }
 }
 
+@media screen and (max-width: 650px) {
+  .vcard,
+  .vcard__title,
+  .vcard__subtitle,
+  .vcard__contact {
+    justify-content: center;
+    text-align: center;
+  }
+
+  .vcard__contact {
+    display: grid;
+    grid-gap: 1rem;
+    justify-content: center;
+    justify-items: center;
+  }
+}
+
 .container {
   padding-left: 5%;
   padding-right: 5%;
