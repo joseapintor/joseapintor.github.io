@@ -691,7 +691,8 @@ a:focus:hover {
   background-color: #542437 !important;
 }
 
-#section-languages li::before {
+#section-languages li::before,
+#section-competences li::before {
   content: '';
   display: block;
   width: 0.5em;
