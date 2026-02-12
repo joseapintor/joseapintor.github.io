@@ -500,7 +500,7 @@ a:focus:hover {
 .vcard__pronouns {
   font-size: 1.125rem;
   font-family: 'Butler', Georgia, Times, serif;
-  color: #818a91;
+  color: #72767a;
 }
 
 .vcard__link {
@@ -588,7 +588,7 @@ a:focus:hover {
 }
 
 .entry__time {
-  color: #818a91;
+  color: #72767a;
   font-size: 0.875rem;
   letter-spacing: 0.125em;
   text-transform: uppercase;
@@ -661,7 +661,22 @@ a:focus:hover {
   position: relative;
 }
 
-.bulletlist li::before {
+.bulletlist li > ul > li::before {
+  content: '';
+  display: block;
+  width: 0.5em;
+  height: 0.5em;
+  border-radius: 50%;
+  background-color: #fc6767;
+  background-color: var(--secondary-color, #fc6767);
+  transform: translate(-50%, 20%);
+  position: absolute;
+  top: 0.5em;
+  left: -1em;
+  background-color: #542437 !important;
+}
+
+#section-languages li::before {
   content: '';
   display: block;
   width: 0.5em;
