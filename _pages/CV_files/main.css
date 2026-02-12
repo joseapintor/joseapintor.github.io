@@ -491,8 +491,6 @@ a:focus:hover {
 }
 
 .vcard__avatar {
-  width: 11rem;
-  height: 11rem;
   border-radius: 50%;
   box-shadow: 8px 8px 40px -10px rgba(0, 0, 0, 0.3);
 }
